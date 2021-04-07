@@ -1,4 +1,6 @@
 ### Hi there 👋
+I don't know how to describe myself 🙂 ..My name is Basel Mohammed Al-hajeri like to be know as MBH as my programming name or a short name.I am a self-educated know JS and JavaScript as my best known then web development then some of computer sciences same as cjs & C++ | Rust & Python | Ruby & whatever..🌱 others and others :)
+
 
 <!--
 **Basel-Alhajeri-MBH/Basel-Alhajeri-MBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
